@@ -10,7 +10,3 @@ Portfolio Project for the CodeCademy Full-Stack Engineer Path.
 ## Project Objectives
 
 + Aplly JS Objects
-
-## URL
-
-
